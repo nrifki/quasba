@@ -1,0 +1,23 @@
+[
+  {
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "book": "Nelson Mandela",
+    "author": "Nelson Mandela",
+    "chapter": "Chapter 1",
+    "page": "Page 1"
+  },
+  {
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "book": "Walt Disney",
+    "author": "Walt Disney",
+    "chapter": "Chapter 2",
+    "page": "Page 2"
+  },
+  {
+    "quote": "If life were predictable it would cease to be life, and be without flavor.",
+    "book": "Eleanor Roosevelt",
+    "author": "Eleanor Roosevelt",
+    "chapter": "Chapter 3",
+    "page": "Page 3"
+  }
+]
